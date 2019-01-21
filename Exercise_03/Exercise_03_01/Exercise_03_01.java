@@ -42,5 +42,6 @@ public class Exercise_03_01 {
 		}
 		else
 			System.out.println("no real roots");
+		
 	}
 }
