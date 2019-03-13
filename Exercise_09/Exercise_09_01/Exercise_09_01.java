@@ -36,6 +36,7 @@ public class Exercise_09_01 {
 		System.out.println("-------------");
 		System.out.println("Width:     " + rectangle2.width);
 		System.out.println("Height:    " + rectangle2.height);
+		
 		System.out.println("Area:      " + rectangle2.getArea());
 		System.out.println("Perimeter: " + rectangle2.getPerimeter());
 	}
